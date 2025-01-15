@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Faven Desta
+# 👋 Hi, I'm Faven Desta
 
 Data Science and Statistics graduate passionate about transforming raw data into actionable insights. Currently based in San Jose, CA, I specialize in data analytics, visualization, and database management.
 
